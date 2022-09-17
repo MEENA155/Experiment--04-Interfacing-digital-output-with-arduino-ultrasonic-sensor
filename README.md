@@ -99,12 +99,12 @@ void loop(){
 			
 			
 			
-			```
+			
 			Average error = sum/ number of readings 
 			= 0.5+0.7+0.4+0.8+1.0
                         = 3.4/5
 	                =0.68
- ```
+ 
 ## Circuit Diagram:
 ![Screenshot (120)](https://user-images.githubusercontent.com/94677128/190869663-0f689166-aad8-4ccc-a3cd-a0c096f094e8.png)
 
