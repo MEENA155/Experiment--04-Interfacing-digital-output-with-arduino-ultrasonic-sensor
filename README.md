@@ -56,7 +56,7 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### PROGRAM 
 ```
-Nme : Meena .S
+Name : Meena .S
 Register Number: 212221240028
 #define echoPin 9
 #define trigPin 10
@@ -85,7 +85,7 @@ void loop(){
 
 
 
-### Distance vs measurement table 
+## Distance vs measurement table 
 
 			
  ![Screenshot (101)](https://user-images.githubusercontent.com/94677128/190869608-3cacd821-08a2-4c22-98b5-8685aaab36a7.png)
